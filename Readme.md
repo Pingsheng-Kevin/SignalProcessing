@@ -1,4 +1,4 @@
-This project was conducted during my internship in Shenzhen Institute of Advance Technology (SIAT) under the supervision
+This project was conducted using Matlab during my internship in Shenzhen Institute of Advance Technology (SIAT) under the supervision
 of Dr. Xiaojian Li, involving processing the electric signals collected by 256 ECoG channels
 from motor cortex of rabbits.
 
